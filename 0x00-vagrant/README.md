@@ -1,1 +1,1 @@
-Task 2 of vagrant, hello ubuntu
+Vagrant 2nd task, hello ubuntu
